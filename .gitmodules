@@ -1,0 +1,6 @@
+[submodule "provisioning/roles/minecraft"]
+	path = provisioning/roles/minecraft
+	url = https://github.com/timmd909/izanagi-role-minecraft.git
+[submodule "provisioning/roles/common"]
+	path = provisioning/roles/common
+	url = https://github.com/timmd909/izanagi-role-common.git

@@ -1,0 +1,5 @@
+- name: Minecraft server
+  hosts: all
+  roles:
+    - common
+    - minecraft
