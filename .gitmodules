@@ -7,3 +7,12 @@
 [submodule "provisioning/roles/web-server"]
 	path = provisioning/roles/web-server
 	url = https://github.com/timmd909/izanagi-role-web-server.git
+[submodule "provisioning/roles/node"]
+	path = provisioning/roles/node
+	url = https://github.com/timmd909/izanagi-role-node.git
+[submodule "provisioning/roles/php"]
+	path = provisioning/roles/php
+	url = https://github.com/timmd909/izanagi-role-php.git
+[submodule "provisioning/roles/server"]
+	path = provisioning/roles/server
+	url = https://github.com/timmd909/izanagi-role-server.git
