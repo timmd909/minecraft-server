@@ -4,3 +4,6 @@
 [submodule "provisioning/roles/common"]
 	path = provisioning/roles/common
 	url = https://github.com/timmd909/izanagi-role-common.git
+[submodule "provisioning/roles/web-server"]
+	path = provisioning/roles/web-server
+	url = https://github.com/timmd909/izanagi-role-web-server.git
